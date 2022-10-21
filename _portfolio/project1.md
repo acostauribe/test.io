@@ -7,7 +7,7 @@ alt: Take a look
 caption:
   title: Neurodegeneration in Colombia
   subtitle: WGS project
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/acostauribe-2022.jpg
 ---
 
 # Abstract
