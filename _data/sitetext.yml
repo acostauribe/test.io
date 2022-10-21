@@ -107,12 +107,12 @@ en: &DEFAULT_EN
         role: "Co-Principal Investigator"
         image: assets/img/team/Juliana.jpg
         social:
-#          - url: https://twitter.com
-#            icon: fab fa-twitter
           - url: https://github.com/acostauribe
             icon: fab fa-github
           - url: https://www.linkedin.com/in/acosta-uribe/
             icon: fab fa-linkedin-in
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
       - name: "Place holder"
 #        role: "Lead Developer"
 #        image: assets/img/team/500x500.jpg
