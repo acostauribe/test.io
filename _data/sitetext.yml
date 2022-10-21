@@ -93,7 +93,7 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Jennifer S. Yokoyama"
+      - name: "Jennifer S. Yokoyama, PhD."
         role: "Co-Principal Investigator"
         image: assets/img/team/Jennifer.jpg
         social:
@@ -103,7 +103,7 @@ en: &DEFAULT_EN
             icon: fas fa-laptop
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
-      - name: "Juliana Acosta-Uribe"
+      - name: "Juliana Acosta-Uribe, MD.PhD."
         role: "Co-Principal Investigator"
         image: assets/img/team/Juliana.jpg
         social:
