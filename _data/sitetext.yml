@@ -94,7 +94,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Jennifer S. Yokoyama"
-        role: "Principal Investigator"
+        role: "Co-Principal Investigator"
         image: assets/img/team/Jennifer.jpg
         social:
           - url: https://twitter.com/yokoyamalabucsf
