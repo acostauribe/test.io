@@ -7,6 +7,7 @@ caption:
 title: WGS project
   subtitle: Acosta-Uribe, et al. Genome Medicine 2022
   thumbnail: assets/img/portfolio/acostauribe-2022.jpg
+  
 ---
 # Abstract
 **Background**\
@@ -22,7 +23,3 @@ Colombian demography with multiple mini-bottlenecks probably enhanced the detect
 [Manuscript](https://doi.org/10.1186/s13073-022-01035-9)\
 [Computational pipeline](https://github.com/acostauribe/TANGL)\
 [Apply for dataset access](https://bibliotecadigital.udea.edu.co/handle/10495/25727)
-
-{:.list-inline}
-- Date: March 2022
-- Journal: Genome Medicine
