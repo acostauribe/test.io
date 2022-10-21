@@ -4,7 +4,7 @@ subtitle: Juliana Acosta-Uribe, David Aguillón, J. Nicholas Cochran, Margarita 
 image: assets/img/portfolio/TANGL_2.jpg
 
 caption:
-title:
+title: WGS project
   subtitle: Acosta-Uribe, et al. Genome Medicine 2022
   thumbnail: assets/img/portfolio/acostauribe-2022.jpg
 ---
