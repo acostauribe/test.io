@@ -1,11 +1,11 @@
 ---
 title: A neurodegenerative disease landscape of rare mutations in Colombia due to founder effects
 subtitle: Juliana Acosta-Uribe, David Aguillón, J. Nicholas Cochran, Margarita Giraldo, Lucía Madrigal, Bradley W. Killingsworth, Rijul Singhal, Sarah Labib, Diana Alzate, Lina Velilla, Sonia Moreno, Gloria P. García, Amanda Saldarriaga, Francisco Piedrahita, Liliana Hincapié, Hugo E. López, Nithesh Perumal, Leonilde Morelo, Dionis Vallejo, Juan Marcos Solano, Eric M. Reiman, Ezequiel I. Surace, Tatiana Itzcovich, Ricardo Allegri, Raquel Sánchez-Valle, Andrés Villegas-Lanau, Charles L. White III, Diana Matallana, Richard M. Myers, Sharon R. Browning, Francisco Lopera & Kenneth S. Kosik
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/TANGL_2.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
+  title: Neurodegeneration in Colombia
   subtitle: WGS project
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
