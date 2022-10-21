@@ -21,9 +21,9 @@ We identified 21 pathogenic variants in AD-FTLD related genes, and *PSEN1* harbo
 Colombian demography with multiple mini-bottlenecks probably enhanced the detection of founder events and left a proportionally higher frequency of rare variants derived from the ancestral populations. These findings demonstrate the role of genomically defined ancestry in phenotypic disease expression, a phenotypic range of different rare mutations in the same gene, and further emphasize the importance of inclusiveness in genetic studies.
 
 # Available data: 
-## [Manuscript](https://doi.org/10.1186/s13073-022-01035-9)  
-## [Computational pipeline](https://github.com/acostauribe/TANGL)  
-## [Apply for dataset access](https://bibliotecadigital.udea.edu.co/handle/10495/25727)
+## [Manuscript](https://doi.org/10.1186/s13073-022-01035-9)\
+## [Computational pipeline](https://github.com/acostauribe/TANGL)\
+## [Apply for dataset access](https://bibliotecadigital.udea.edu.co/handle/10495/25727)\
 
 {:.list-inline}
 - Date: March 2022
