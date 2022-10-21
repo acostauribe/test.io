@@ -1,12 +1,12 @@
 ---
 title: A neurodegenerative disease landscape of rare mutations in Colombia due to founder effects
 subtitle: Juliana Acosta-Uribe, David Aguillón, J. Nicholas Cochran, Margarita Giraldo, Lucía Madrigal, Bradley W. Killingsworth, Rijul Singhal, Sarah Labib, Diana Alzate, Lina Velilla, Sonia Moreno, Gloria P. García, Amanda Saldarriaga, Francisco Piedrahita, Liliana Hincapié, Hugo E. López, Nithesh Perumal, Leonilde Morelo, Dionis Vallejo, Juan Marcos Solano, Eric M. Reiman, Ezequiel I. Surace, Tatiana Itzcovich, Ricardo Allegri, Raquel Sánchez-Valle, Andrés Villegas-Lanau, Charles L. White III, Diana Matallana, Richard M. Myers, Sharon R. Browning, Francisco Lopera & Kenneth S. Kosik 
-image: assets/img/portfolio/TANGL_2.png
+image: assets/img/portfolio/TANGL_2.jpg
 
 caption:
 title:
   subtitle: Acosta-Uribe, et al. Genome Medicine 2022
-  thumbnail: assets/img/portfolio/acostauribe-2022.png
+  thumbnail: assets/img/portfolio/acostauribe-2022.jpg
 ---
 # Abstract
 **Background**\
@@ -18,11 +18,11 @@ We identified 21 pathogenic variants in AD-FTLD related genes, and PSEN1 harbore
 **Conclusions**\
 Colombian demography with multiple mini-bottlenecks probably enhanced the detection of founder events and left a proportionally higher frequency of rare variants derived from the ancestral populations. These findings demonstrate the role of genomically defined ancestry in phenotypic disease expression, a phenotypic range of different rare mutations in the same gene, and further emphasize the importance of inclusiveness in genetic studies.
 
-{:.list-inline}
-- Date: March 2022
-- Journal: Genome Medicine
-- Available data: \
+# Available data: \
 [Manuscript](https://doi.org/10.1186/s13073-022-01035-9)\
 [Computational pipeline](https://github.com/acostauribe/TANGL)\
 [Apply for dataset access](https://bibliotecadigital.udea.edu.co/handle/10495/25727)
 
+{:.list-inline}
+- Date: March 2022
+- Journal: Genome Medicine
