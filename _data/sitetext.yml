@@ -45,17 +45,17 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Phase 1"
-        year: "2022"
+        year: "2023"
         desc: "Generate a Github webpage for the bioinformatics training and code sharing into the data collaboration initiative, Generate the first repository: Quality control pipelines for human genetic sequencing data  (microarray, exome and genome sequencing) Work with the Kosik lab and the Yokoyama lab to harmonize their QC practice"
         image: assets/img/timeline/time01.jpg
         alt:
       - title: "Phase 2"
-        year: "2023"
+        year: "2024"
         desc: "Incorporate R Shiny apps for the visualization of datasets. Collaborate with the stem cell groups investigators to add the computational code they have developed into the Bioinformatics hub"
         image: assets/img/timeline/time02.jpg
         alt:
       - title: "Phase 3"
-        year: "2024"
+        year: "2025"
         desc: "Create new repositories that allow the users to explore different types of analyses of the available datasetsGenerate teaching modules that allow new users and early-stage investigators to learn about specific bioinformatics analyses"
         image: assets/img/timeline/time03.jpg
         alt: image alt text
@@ -142,16 +142,15 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://twitter.com/RCFNeuro
         icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      - url: https://github.com/TauConsortium
+        icon: "fab fa-github"#      - url: https://facebook.com
+#        icon: "fab fa-facebook-f"
+#      - url: https://linkedin.com
+#        icon: "fab fa-linkedin-in"
+#      - url: https://instagram.com
+#        icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
