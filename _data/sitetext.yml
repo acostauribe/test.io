@@ -77,9 +77,9 @@ en: &DEFAULT_EN
       - title: "Tau Consortium"
         url: https://tauconsortium.org/
         logo: assets/img/clients/tau-logo.png 
-#      - title: "designmodo
-#        url: https://github.com/raviriley/agency-jekyll-theme
-#        logo: assets/img/clients/designmodo.jpg
+      - title: "Rainwater Charitable Foundation"
+        url: https://rainwatercharitablefoundation.org/
+        logo: assets/img/clients/2021_RCF Logos_Color transparent.png
 #      - title: "themeforest"
 #        url: https://github.com/raviriley/agency-jekyll-theme
 #        logo: assets/img/clients/themeforest.jpg
