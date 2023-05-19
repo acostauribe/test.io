@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+.navbar-brand {
+    color: #54bfff;
+    font-family: "Oswald", sans-serif;
+}
