@@ -6,3 +6,8 @@
     color: #54bfff;
     font-family: "Oswald", sans-serif;
 }
+
+#mainNav .navbar-brand {
+    color: #54bfff;
+    font-family: "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
