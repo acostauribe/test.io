@@ -1,7 +1,7 @@
 ---
 ---
 
-@import 'agency-jekyll-theme';
+@import "{{ site.theme }}";
 #mainNav .navbar-brand {
     color: #54bfff;
     font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
