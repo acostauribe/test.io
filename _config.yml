@@ -12,6 +12,9 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
+stylesheets:
+  - /assets/css/custom.css
+
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/test" # the subpath of your site, e.g. /blog
 
